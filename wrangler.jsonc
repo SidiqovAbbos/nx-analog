@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "analog-app",
+  "compatibility_date": "2025-05-08",
+  "pages_build_output_dir": "./dist/analog-app/analog/public",
+  "observability": {
+    "enabled": true
+  }
+}
